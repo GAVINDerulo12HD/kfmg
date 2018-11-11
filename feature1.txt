@@ -1,1 +1,2 @@
 This is feature1 and its awesome. Cant wait for them to get their hand son it
+Added another line by newRepo
